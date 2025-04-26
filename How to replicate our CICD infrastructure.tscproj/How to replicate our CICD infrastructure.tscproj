@@ -1,0 +1,687 @@
+{
+  "title" : "",
+  "description" : "",
+  "author" : "",
+  "targetLoudness" : -18.0,
+  "shouldApplyLoudnessNormalization" : true,
+  "videoFormatFrameRate" : 30,
+  "audioFormatSampleRate" : 44100,
+  "allowSubFrameEditing" : false,
+  "width" : 1920.0,
+  "height" : 1080.0,
+  "version" : "9.0",
+  "editRate" : 705600000,
+  "authoringClientName" :  {
+    "name" : "Camtasia",
+    "platform" : "Windows",
+    "version" : "2025.0.1"
+  },
+  "sourceBin" : [
+    {
+      "id" : 1,
+      "src" : "triangles.tscshadervid",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20230403T200314",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 9223372036854775807],
+          "type" : 0,
+          "editRate" : 30,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : 30,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "triangles.tscshadervid;"
+        }
+      ],
+      "effectDef" : [
+        {
+          "name" : "Color0",
+          "type" : "Color",
+          "defaultValue" : [ 0.615686, 0.705882, 0.752941, 1],
+          "scalingType" : 3,
+          "unitType" : 0,
+          "userInterfaceType" : 6
+        },
+        {
+          "name" : "Color1",
+          "type" : "Color",
+          "defaultValue" : [ 0.878431, 0.984314, 0.988235, 1],
+          "scalingType" : 3,
+          "unitType" : 0,
+          "userInterfaceType" : 6
+        },
+        {
+          "name" : "Size",
+          "type" : "double",
+          "defaultValue" : 357.9,
+          "maxValue" : 500.0,
+          "minValue" : 0.5,
+          "scalingType" : 0,
+          "unitType" : 0,
+          "userInterfaceType" : 0
+        },
+        {
+          "name" : "Direction",
+          "type" : "double",
+          "defaultValue" : 0.7853982,
+          "maxValue" : 0.0,
+          "minValue" : 0.0,
+          "scalingType" : 0,
+          "unitType" : 3,
+          "userInterfaceType" : 2
+        },
+        {
+          "name" : "sourceFileType",
+          "type" : "string",
+          "defaultValue" : "tscshadervid",
+          "maxValue" : "",
+          "minValue" : "",
+          "scalingType" : 0,
+          "unitType" : 0,
+          "userInterfaceType" : 0
+        }    ]
+,
+      "metadata" : {
+        "timeAdded" : "20250423T044812.529124"
+      }
+    },
+    {
+      "id" : 2,
+      "src" : "Rec 4-22-2025-9-47-29-PM.trec",
+      "rect" : [0, 0, 3840, 2060],
+      "lastMod" : "20250423T044729",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 149027968],
+          "type" : 0,
+          "editRate" : 60000,
+          "trackRect" : [0, 0, 3840, 2060],
+          "sampleRate" : "14613/1000",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "Rec 4-22-2025-9-47-29-PM.trec;2b7b6a00-7a1f-11e2-83d0-0017f200be7f;2b7b6aef-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20250423T044812.529124"
+      }
+    }
+  ],
+  "timeline" : {
+    "id" : 3,
+    "sceneTrack" : {
+      "scenes" : [
+        {
+          "csml" : {
+            "tracks" : [
+              {
+                "trackIndex" : 0,
+                "medias" : [
+                  {
+                    "id" : 4,
+                    "_type" : "VMFile",
+                    "src" : 1,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "triangles"
+                    },
+                    "parameters" : {
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "sourceEffect" :                       {
+                        "effectName" : "SourceEffect",
+                        "bypassed" : false,
+                        "category" : "",
+                        "parameters" : {
+                          "Color0-alpha" : {
+                            "type" : "double",
+                            "defaultValue" : 1.0,
+                            "interp" : "linr"
+                          },
+                          "Color0-blue" : {
+                            "type" : "double",
+                            "defaultValue" : 0.752941176470588,
+                            "interp" : "linr"
+                          },
+                          "Color0-green" : {
+                            "type" : "double",
+                            "defaultValue" : 0.705882352941177,
+                            "interp" : "linr"
+                          },
+                          "Color0-red" : {
+                            "type" : "double",
+                            "defaultValue" : 0.615686274509804,
+                            "interp" : "linr"
+                          },
+                          "Color1-alpha" : {
+                            "type" : "double",
+                            "defaultValue" : 1.0,
+                            "interp" : "linr"
+                          },
+                          "Color1-blue" : {
+                            "type" : "double",
+                            "defaultValue" : 0.988235294117647,
+                            "interp" : "linr"
+                          },
+                          "Color1-green" : {
+                            "type" : "double",
+                            "defaultValue" : 0.984313725490196,
+                            "interp" : "linr"
+                          },
+                          "Color1-red" : {
+                            "type" : "double",
+                            "defaultValue" : 0.87843137254902,
+                            "interp" : "linr"
+                          },
+                          "Size" : {
+                            "type" : "double",
+                            "defaultValue" : 357.904926069631,
+                            "interp" : "linr",
+                            "uiHints" : {
+                              "userInterfaceType" : 0,
+                              "unitType" : 0
+                            }
+                          },
+                          "Direction" : {
+                            "type" : "double",
+                            "defaultValue" : 0.785398163397448,
+                            "interp" : "linr",
+                            "uiHints" : {
+                              "userInterfaceType" : 2,
+                              "unitType" : 3
+                            }
+                          },
+                          "sourceFileType" : "tscshadervid"
+                        }
+                      },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 1752568903680,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1752568903680,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : { "type": "bool", "value" : false},
+                      "colorAttribute" : { "type": "color", "value" : [ 0, 0, 0, 0]},
+                      "default-SourceEffect-Color0" : "(157,180,192,255)",
+                      "default-SourceEffect-Color1" : "(224,251,252,255)",
+                      "default-SourceEffect-Direction" : "-1.570796",
+                      "default-SourceEffect-Size" : "180",
+                      "effectApplied" : "none",
+                      "lockAspectRatio" : { "type": "bool", "value" : true}
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 1,
+                "medias" : [
+                  {
+                    "id" : 5,
+                    "_type" : "ScreenVMFile",
+                    "src" : 2,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "Rec 4-22-2025-9-47-29-PM"
+                    },
+                    "parameters" : {
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -194.4,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.503300970873786,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.503300970873786,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "cursorScale" : {
+                        "type" : "double",
+                        "defaultValue" : 5.0,
+                        "interp" : "linr"
+                      },
+                      "cursorOpacity" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "cursorTrackLevel" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "smoothCursorAcrossEditDuration" : 0
+                    },
+                    "effects" : [
+                        {
+                          "effectName" : "CursorColor",
+                          "bypassed" : false,
+                          "category" : "categoryCursorEffects",
+                          "parameters" : {
+                            "intensity" : {
+                              "type" : "double",
+                              "defaultValue" : 1.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "desaturation" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "colorLumaCutoff" : {
+                              "type" : "double",
+                              "defaultValue" : 1.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "color-alpha" : {
+                              "type" : "double",
+                              "defaultValue" : 1.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "color-red" : {
+                              "type" : "double",
+                              "defaultValue" : 1.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "color-green" : {
+                              "type" : "double",
+                              "defaultValue" : 0.8980392157,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "color-blue" : {
+                              "type" : "double",
+                              "defaultValue" : 0.1215686275,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "secondColor-red" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "secondColor-green" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "secondColor-blue" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "secondColor-alpha" : {
+                              "type" : "double",
+                              "defaultValue" : 1.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "secondColorLumaCutoff" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "channel" : 0,
+                            "shadowRampStart" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "shadowRampEnd" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "highlightRampStart" : {
+                              "type" : "double",
+                              "defaultValue" : 1.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "highlightRampEnd" : {
+                              "type" : "double",
+                              "defaultValue" : 1.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "effectName" : "CursorShadow",
+                          "bypassed" : false,
+                          "category" : "categoryCursorEffects",
+                          "parameters" : {
+                            "angle" : {
+                              "type" : "double",
+                              "defaultValue" : 3.92699081698724,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "enabled" : 1,
+                            "offset" : {
+                              "type" : "double",
+                              "defaultValue" : 5.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "blur" : {
+                              "type" : "double",
+                              "defaultValue" : 2.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "opacity" : {
+                              "type" : "double",
+                              "defaultValue" : 0.25,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "color-red" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "color-green" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "color-blue" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "color-alpha" : {
+                              "type" : "double",
+                              "defaultValue" : 1.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "effectName" : "CursorHilight",
+                          "bypassed" : false,
+                          "category" : "categoryCursorEffects",
+                          "parameters" : {
+                            "radius" : {
+                              "type" : "double",
+                              "defaultValue" : 50.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "color-red" : {
+                              "type" : "double",
+                              "defaultValue" : 1.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "color-green" : {
+                              "type" : "double",
+                              "defaultValue" : 1.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "color-blue" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "color-alpha" : {
+                              "type" : "double",
+                              "defaultValue" : 0.75,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "blur" : {
+                              "type" : "double",
+                              "defaultValue" : 0.1,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            }
+                          }
+                        }
+                    ],
+                    "start" : 0,
+                    "duration" : 1752545760000,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1752545760000,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "AutoAppliedSmartFocus" : "False",
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : { "type": "bool", "value" : false},
+                      "colorAttribute" : { "type": "color", "value" : [ 0, 0, 0, 0]}
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              }            ]
+          }
+        }
+      ]
+    },
+    "trackAttributes" : [
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      }
+    ],
+    "captionAttributes" : {
+      "enabled" : true,
+      "fontName" : "Arial",
+      "fontSize" : 64,
+      "backgroundColor" : [ 0, 0, 0, 191],
+      "foregroundColor" : [ 255, 255, 255, 255],
+      "lang" : "en",
+      "alignment" : 0,
+      "defaultFontSize" : true,
+      "opacity" : 0.5,
+      "backgroundEnabled" : true,
+      "backgroundOnlyAroundText" : true
+    },
+    "gain" : 1.0,
+    "legacyAttenuateAudioMix" : false,
+    "backgroundColor" : [ 0, 0, 0, 255]
+  },
+  "metadata" : {
+    "AutoSaveFile" : "C:\\Users\\svelderr\\AppData\\Local\\TechSmith\\Camtasia Studio\\25.0\\Auto-Saves\\How to replicate our CICD infrastructuredafa69.autosave.tscproj",
+    "CanvasZoom" : { "type": "int", "value" : 100},
+    "Date" : "2025-04-22 09:03:55 PM",
+    "IsAutoSave" : { "type": "bool", "value" : false},
+    "IsStandalone" : { "type": "bool", "value" : true},
+    "Language" : "ENU",
+    "ProfileName" : "",
+    "ProjectThumbnail" : "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\r\ngH6VQQAA+lUGAQDoVxkEAKBfZRAAgH6VQQAA+lUGAQDoVxkEAKBfZRAAgH6VQQAA+lUGAQDoVxkE\r\nAKBfZRAAgH6VQQAA+lUGAQDoVxkEAKBfZRAAgH6VQQAA+lUGAQDoVxkEAKBfZRAAgH6VQQAA+lUG\r\nAQDoVxkEAKBfZRAAgH6VQQAA+lUGAQDoVxkEAKBfZRAAgH6VQQAA+lUGAQDoVxkEAKBfZRAAgH6V\r\nQQAA+lUGAQDoVxkEAKBfZRAAgH6VQQAA+lUGAQDoVxkEAKBfZRAAgH6VQQAA+lUGAQDoVxkEAKBf\r\nZRAAgH6VQQAA+lUGAQDoVxkEAKBfZRAAgH6VQQAA+lUGAQDoVxkEAKBfZRAAgH6VQQAA+lUGAQDo\r\nVxkEAKBfZRAAgH6VQQAA+lUGAQDoVxkEAKBfZRAAgH6VQQAA+lUGAQDoVxkEAKBfZRAAgH6VQQAA\r\n+lUGAQDoVxkEAKBfZRAAgH6VQQAA+lUGAQDoVxkEAKBfZRAAgH6VQQAA+lUGAQDoVxkEAKBfZRAA\r\ngH6VQQAA+lUGAQDoVxkEAKBfZRAAgH6VQQAA+lUGAQDoVxkEAKBfZRAAgH6VQQAA+lUGAQDoVxkE\r\nAKBfZRAAgH6VQQAA+lUGAQDoVxkEAKBfZRAAgH6VQQAA+lUGAQDoVxkEAKBfZRAAgH6VQQAA+lUG\r\nAQDoVxkEAKBfZRAAgH6VQQAA+lUGAQDoVxkEAKBfZRAAgH6VQQAA+lUGAQDoVxkEAKBfZRAAgH6V\r\nQQAA+lUGAQDoVxkEAKBfZRAAgH6VQQAA+lUGAQDoVxkEAKBfZRAAgH6VQQAA+lUGAQDoVxkEAKBf\r\nZRAAgH6VQQAA+lUGAQDoVxkEAKBfZRAAgH6VQQAA+lUGAQDoVxkEAKBfZRAAgH6VQQAA+lUGAQDo\r\nVxkEAKBfZRAAgH6VQQAA+lUGAQDoVxkEAKBfZRAAgH6VQQAA+lUGAQDoVxkEAKBfZRAAgH6VQQAA\r\n+lUGAQDoVxkEAKBfZRAAgH6VQQAA+lUGAQDoVxkEAKBfZRAAgH6VQQAA+lUGAQDoVxkEAKBfZRAA\r\ngH6VQQAA+lUGAQDoVxkEAKBfZRAAgH6VQQAA+lUGAQDoVxkEAKBfZRAAgH6VQQAA+lUGAQDoVxkE\r\nAKBfZRAAgH6VQQAA+lUGAQDoVxkEAKBfZRAAgH6VQQAA+lUGAQDoVxkEAKBfZRAAgH6VQQAA+lUG\r\nAQDoVxkEAKBfZRAAgH6VQQAA+lUGAQDo0rbh/wMvW6An6wqnFgAAAABJRU5ErkJggg==",
+    "RulerGuidesX" : [],
+    "RulerGuidesY" : [],
+    "RulerShowing" : { "type": "bool", "value" : false},
+    "Title" : "How to replicate our CICD infrastructure",
+    "audioNarrationNotes" : "",
+    "calloutStyle" : "Basic"
+  }
+}
