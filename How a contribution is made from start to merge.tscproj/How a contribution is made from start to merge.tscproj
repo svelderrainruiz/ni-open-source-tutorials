@@ -1,0 +1,1625 @@
+{
+  "title" : "",
+  "description" : "",
+  "author" : "",
+  "targetLoudness" : -18.0,
+  "shouldApplyLoudnessNormalization" : true,
+  "videoFormatFrameRate" : 30,
+  "audioFormatSampleRate" : 44100,
+  "allowSubFrameEditing" : false,
+  "width" : 1920.0,
+  "height" : 1080.0,
+  "version" : "9.0",
+  "editRate" : 705600000,
+  "authoringClientName" :  {
+    "name" : "Camtasia",
+    "platform" : "Windows",
+    "version" : "2025.0.1"
+  },
+  "sourceBin" : [
+    {
+      "id" : 1,
+      "src" : "triangles.tscshadervid",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20230403T200314",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 9223372036854775807],
+          "type" : 0,
+          "editRate" : 30,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : 30,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "triangles.tscshadervid;"
+        }
+      ],
+      "effectDef" : [
+        {
+          "name" : "Color0",
+          "type" : "Color",
+          "defaultValue" : [ 0.615686, 0.705882, 0.752941, 1],
+          "scalingType" : 3,
+          "unitType" : 0,
+          "userInterfaceType" : 6
+        },
+        {
+          "name" : "Color1",
+          "type" : "Color",
+          "defaultValue" : [ 0.878431, 0.984314, 0.988235, 1],
+          "scalingType" : 3,
+          "unitType" : 0,
+          "userInterfaceType" : 6
+        },
+        {
+          "name" : "Size",
+          "type" : "double",
+          "defaultValue" : 357.9,
+          "maxValue" : 500.0,
+          "minValue" : 0.5,
+          "scalingType" : 0,
+          "unitType" : 0,
+          "userInterfaceType" : 0
+        },
+        {
+          "name" : "Direction",
+          "type" : "double",
+          "defaultValue" : 0.7853982,
+          "maxValue" : 0.0,
+          "minValue" : 0.0,
+          "scalingType" : 0,
+          "unitType" : 3,
+          "userInterfaceType" : 2
+        },
+        {
+          "name" : "sourceFileType",
+          "type" : "string",
+          "defaultValue" : "tscshadervid",
+          "maxValue" : "",
+          "minValue" : "",
+          "scalingType" : 0,
+          "unitType" : 0,
+          "userInterfaceType" : 0
+        }    ]
+,
+      "metadata" : {
+        "timeAdded" : "20250423T035233.535278"
+      }
+    },
+    {
+      "id" : 2,
+      "src" : "Rec 4-22-2025-8-51-30-PM.trec",
+      "rect" : [0, 0, 3840, 2060],
+      "lastMod" : "20250423T035130",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 296087926],
+          "type" : 0,
+          "editRate" : 60000,
+          "trackRect" : [0, 0, 3840, 2060],
+          "sampleRate" : "30263/2000",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : "Rec 4-22-2025-8-51-30-PM.trec;2b7b6a00-7a1f-11e2-83d0-0017f200be7f;2b7b6aef-7a1f-11e2-83d0-0017f200be7f;2b7b6af0-7a1f-11e2-83d0-0017f200be7f;2b7b6af1-7a1f-11e2-83d0-0017f200be7f;2b7b6af2-7a1f-11e2-83d0-0017f200be7f;2b7b6af3-7a1f-11e2-83d0-0017f200be7f;2b7b6af5-7a1f-11e2-83d0-0017f200be7f;2b7b6af6-7a1f-11e2-83d0-0017f200be7f;2b7b6af7-7a1f-11e2-83d0-0017f200be7f;2b7b6af8-7a1f-11e2-83d0-0017f200be7f;2b7b6af9-7a1f-11e2-83d0-0017f200be7f;2b7b6afa-7a1f-11e2-83d0-0017f200be7f;"
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20250423T035233.535278"
+      }
+    }
+  ],
+  "timeline" : {
+    "id" : 3,
+    "sceneTrack" : {
+      "scenes" : [
+        {
+          "csml" : {
+            "tracks" : [
+              {
+                "trackIndex" : 0,
+                "medias" : [
+                  {
+                    "id" : 4,
+                    "_type" : "StitchedMedia",
+                    "minMediaStart" : 0,
+                    "attributes" : {
+                      "ident" : "Rec 4-22-2025-8-51-30-PM",
+                      "gain" : 1.0,
+                      "mixToMono" : false,
+                      "loudnessNormalization" : true,
+                      "sourceFileOffset" : 0
+                    },
+                    "parameters" : {
+                      "translation0" : 6.33786407766917,
+                      "translation1" : -2.8421709430404e-14,
+                      "scale0" : 0.503300970873786,
+                      "scale1" : 0.503300970873786,
+                      "geometryCrop0" : 0.0,
+                      "geometryCrop1" : 0.0,
+                      "geometryCrop2" : 0.0,
+                      "geometryCrop3" : 0.0,
+                      "toc" : {
+                        "type" : "string",
+                        "keyframes" : [
+                          {
+                            "endTime" : 19521600000,
+                            "time" : 19521600000,
+                            "value" : "Look for issue",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "D133DEC6-0BEA-4D0B-AAA9-C21FA1505DA9"
+                            }
+                          },
+                          {
+                            "endTime" : 75546240000,
+                            "time" : 75546240000,
+                            "value" : "Create branch",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "BEFC783A-D2CE-4AF7-A8A3-73170B547213"
+                            }
+                          },
+                          {
+                            "endTime" : 92692320000,
+                            "time" : 92692320000,
+                            "value" : "Assign issue",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "1C5B964B-36BB-41CE-A5E0-726A8B9BF9BF"
+                            }
+                          },
+                          {
+                            "endTime" : 119081760000,
+                            "time" : 119081760000,
+                            "value" : "Fork address",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "697079D1-7D4B-445B-83A9-D30AC61C6F1B"
+                            }
+                          },
+                          {
+                            "endTime" : 134087520000,
+                            "time" : 134087520000,
+                            "value" : "Begin clone",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "6C203281-8292-4299-B424-FEF6162D1BBB"
+                            }
+                          },
+                          {
+                            "endTime" : 151821600000,
+                            "time" : 151821600000,
+                            "value" : "Fetch",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "F19916B7-7BD7-4317-BBF1-20F8BF82A927"
+                            }
+                          },
+                          {
+                            "endTime" : 178940160000,
+                            "time" : 178940160000,
+                            "value" : "Checkout",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "08DF135A-3EE4-4373-B8B7-293F8AD8247C"
+                            }
+                          },
+                          {
+                            "endTime" : 240468480000,
+                            "time" : 240468480000,
+                            "value" : "Find dev VI",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "C42F4512-9135-47C0-B03A-93F78ECA143A"
+                            }
+                          },
+                          {
+                            "endTime" : 259778400000,
+                            "time" : 259778400000,
+                            "value" : "Run VI",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "3E1973D1-D15E-4820-9A0A-FA1DD847551A"
+                            }
+                          },
+                          {
+                            "endTime" : 302373120000,
+                            "time" : 302373120000,
+                            "value" : "Open lv_icon",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "562D4AAA-D970-4C66-A817-3C15CCA9B9A9"
+                            }
+                          },
+                          {
+                            "endTime" : 326975040000,
+                            "time" : 326975040000,
+                            "value" : "Change color",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "F5FE43AB-2585-4DDB-BA5D-56C0D7B1AC13"
+                            }
+                          },
+                          {
+                            "endTime" : 354540480000,
+                            "time" : 354540480000,
+                            "value" : "Commit",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "3D303548-56EB-4CC2-BDE6-3F7DF2D5117B"
+                            }
+                          },
+                          {
+                            "endTime" : 391184640000,
+                            "time" : 391184640000,
+                            "value" : "Push",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "15212B64-6FAD-4640-BB30-16FA0DCD3E49"
+                            }
+                          },
+                          {
+                            "endTime" : 405390720000,
+                            "time" : 405390720000,
+                            "value" : "pull request",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "D35B9F86-C5B8-4D0A-AC58-25406AEE2278"
+                            }
+                          },
+                          {
+                            "endTime" : 431874240000,
+                            "time" : 431874240000,
+                            "value" : "PR Description",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "F8506205-06CA-4767-B6CC-C6EEEBDBBD80"
+                            }
+                          },
+                          {
+                            "endTime" : 442881600000,
+                            "time" : 442881600000,
+                            "value" : "Create pull request",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "BEA433B9-5DEB-472B-A87A-5EDCCB847EED"
+                            }
+                          },
+                          {
+                            "endTime" : 445798080000,
+                            "time" : 445798080000,
+                            "value" : "See pull request branches",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "80DC832E-B112-4CA8-BAEC-27B1A49CC0B3"
+                            }
+                          },
+                          {
+                            "endTime" : 455323680000,
+                            "time" : 455323680000,
+                            "value" : "See required checks",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "662F3058-7B6A-4E30-B958-E20B146A74ED"
+                            }
+                          },
+                          {
+                            "endTime" : 505280160000,
+                            "time" : 505280160000,
+                            "value" : "32 bit retry",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "BDFEAC5C-0D90-4A05-BFAE-B01F933F3F8E"
+                            }
+                          },
+                          {
+                            "endTime" : 528423840000,
+                            "time" : 528423840000,
+                            "value" : "64 bit pass",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "C5CCFEC5-4AE2-432B-AA54-91629D0D81AF"
+                            }
+                          },
+                          {
+                            "endTime" : 534162720000,
+                            "time" : 534162720000,
+                            "value" : "Build VI Package action",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "C919FDAC-AF8E-4E1C-ABD2-A85CE7262DF4"
+                            }
+                          },
+                          {
+                            "endTime" : 916174560000,
+                            "time" : 916174560000,
+                            "value" : "Package built",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "874276D2-4E2A-47D9-BC16-3A1B80409C08"
+                            }
+                          },
+                          {
+                            "endTime" : 931297920000,
+                            "time" : 931297920000,
+                            "value" : "go to tag",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "A1ED4956-0AE1-486E-9FB7-74290BA1E81D"
+                            }
+                          },
+                          {
+                            "endTime" : 947079840000,
+                            "time" : 947079840000,
+                            "value" : "Go to workflo",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "50FB32AF-69BA-40FC-B3AA-7DBDB76D5842"
+                            }
+                          },
+                          {
+                            "endTime" : 954582720000,
+                            "time" : 954582720000,
+                            "value" : "Download artifact",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "444B83EB-16A3-4FC0-9A9B-7C6FDBC47D78"
+                            }
+                          },
+                          {
+                            "endTime" : 967636320000,
+                            "time" : 967636320000,
+                            "value" : "Add to VIPM Library",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "C68DD123-A009-48AC-BCAA-426935C70773"
+                            }
+                          },
+                          {
+                            "endTime" : 975327360000,
+                            "time" : 975327360000,
+                            "value" : "Add to library and install",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "28508F69-B888-4D10-A605-69CE5FA57F43"
+                            }
+                          },
+                          {
+                            "endTime" : 985135200000,
+                            "time" : 985135200000,
+                            "value" : "Click on close labview",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "C67C42BD-1AAA-43BC-B7E8-4FE6E48988CD"
+                            }
+                          },
+                          {
+                            "endTime" : 1005527040000,
+                            "time" : 1005527040000,
+                            "value" : "Click restart",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "1E2AA01B-2FB3-4B61-BD67-6D8235BAD854"
+                            }
+                          },
+                          {
+                            "endTime" : 1017475200000,
+                            "time" : 1017475200000,
+                            "value" : "Open IE",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "244DD759-2F1E-46C3-AE0F-9CB4D0975D6C"
+                            }
+                          },
+                          {
+                            "endTime" : 1018956960000,
+                            "time" : 1018956960000,
+                            "value" : "Close IE",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "1E43DF3B-A40E-4536-907D-808149C640D0"
+                            }
+                          },
+                          {
+                            "endTime" : 1115577120000,
+                            "time" : 1115577120000,
+                            "value" : "CI Retriggered",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "01C33788-42E3-461C-A934-8057E772BC8F"
+                            }
+                          },
+                          {
+                            "endTime" : 1234541280000,
+                            "time" : 1234541280000,
+                            "value" : "unit test done",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "FD4A7210-65BE-4EE1-978A-9FDFC0640AD6"
+                            }
+                          },
+                          {
+                            "endTime" : 1238233920000,
+                            "time" : 1238233920000,
+                            "value" : "Click Actions",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "69BC9875-614D-4248-BEDD-FB40C1FA5719"
+                            }
+                          },
+                          {
+                            "endTime" : 1240468320000,
+                            "time" : 1240468320000,
+                            "value" : "Click Build VI Package",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "16415886-43E2-4AEF-90F8-D8633236B3A9"
+                            }
+                          },
+                          {
+                            "endTime" : 1512688800000,
+                            "time" : 1512688800000,
+                            "value" : "Finished building",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "78079775-7BFE-40FC-A3A7-3ABD0CDCEF76"
+                            }
+                          },
+                          {
+                            "endTime" : 1596208320000,
+                            "time" : 1596208320000,
+                            "value" : "Merge to develop",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "EEC61A98-15D8-448D-B2DC-546AF5E85755"
+                            }
+                          },
+                          {
+                            "endTime" : 1618669920000,
+                            "time" : 1618669920000,
+                            "value" : "Start unit tests",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "A2450F3B-A867-4193-96F2-B33078AFF35E"
+                            }
+                          },
+                          {
+                            "endTime" : 1649340000000,
+                            "time" : 1649340000000,
+                            "value" : "Finish unit test",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "8DF780A0-6929-4F83-9F25-E7240B139F14"
+                            }
+                          },
+                          {
+                            "endTime" : 1662393600000,
+                            "time" : 1662393600000,
+                            "value" : "Click build VI Package",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "DB3048E3-0709-4E1C-B828-E3A7B371DAFB"
+                            }
+                          },
+                          {
+                            "endTime" : 2021708640000,
+                            "time" : 2021708640000,
+                            "value" : "Build finished",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "914858C5-DF2B-4330-82EC-C95D38F93321"
+                            }
+                          },
+                          {
+                            "endTime" : 2034432960000,
+                            "time" : 2034432960000,
+                            "value" : "Click on releases",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "398A8523-F9F2-458A-AAE1-EDBF8E8265FA"
+                            }
+                          },
+                          {
+                            "endTime" : 2038572480000,
+                            "time" : 2038572480000,
+                            "value" : "emphasize it was built now",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "05974AC5-68C5-470D-BD57-82C84A0A9BD2"
+                            }
+                          },
+                          {
+                            "endTime" : 2049932640000,
+                            "time" : 2049932640000,
+                            "value" : "Click on assets",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "B8364642-4FAF-46DF-BC0A-282079598680"
+                            }
+                          },
+                          {
+                            "endTime" : 2052472800000,
+                            "time" : 2052472800000,
+                            "value" : "Download VI Package",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "29DE5E98-E736-4BAE-914C-00F7FF8BF2E4"
+                            }
+                          },
+                          {
+                            "endTime" : 2056447680000,
+                            "time" : 2056447680000,
+                            "value" : "Open VI Package",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "D0A3E843-70CE-4D75-B9A9-4EEF777EB768"
+                            }
+                          },
+                          {
+                            "endTime" : 2112589920000,
+                            "time" : 2112589920000,
+                            "value" : "Open Black icon editor",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "2C831A6E-6F53-4966-990B-03D479195BDF"
+                            }
+                          },
+                          {
+                            "endTime" : 2119645920000,
+                            "time" : 2119645920000,
+                            "value" : "Click uninstall",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "AE1F55A9-9598-4A0D-BE73-51063A5504CB"
+                            }
+                          },
+                          {
+                            "endTime" : 2297598240000,
+                            "time" : 2297598240000,
+                            "value" : "Finish uninstall",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "A653DC9F-22AD-49D2-A317-0668444E9A8A"
+                            }
+                          },
+                          {
+                            "endTime" : 2303031360000,
+                            "time" : 2303031360000,
+                            "value" : "Click install",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "80FB6ADB-27F7-4CED-ABCF-1562C4048500"
+                            }
+                          },
+                          {
+                            "endTime" : 2334830400000,
+                            "time" : 2334830400000,
+                            "value" : "Click uninstall",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "034DD6BC-D86C-4B2F-B55D-D374C6A3BCF7"
+                            }
+                          },
+                          {
+                            "endTime" : 2379518400000,
+                            "time" : 2379518400000,
+                            "value" : "Click Finish on VIPM",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "4AB62119-D290-4BC2-9BBE-A2EC923E7D10"
+                            }
+                          },
+                          {
+                            "endTime" : 2399628000000,
+                            "time" : 2399628000000,
+                            "value" : "Open regular icon editor",
+                            "duration" : 0,
+                            "metadata" : {
+                              "markerIdentifier" : "3000429C-9DF7-44A5-A934-52DBDA2907D1"
+                            }
+                          }
+                        ]
+                      },
+                      "cursorOpacity" : 1.0,
+                      "cursorTrackLevel" : 0.0,
+                      "cursorScale" : 5.0,
+                      "smoothCursorAcrossEditDuration" : 0
+                    },
+                    "medias" : [
+                        {
+                          "id" : 5,
+                          "_type" : "ScreenVMFile",
+                          "src" : 2,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Rec 4-22-2025-8-51-30-PM"
+                          },
+                          "parameters" : {
+                            "geometryCrop0" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop1" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop2" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop3" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "cursorScale" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorOpacity" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorTrackLevel" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "smoothCursorAcrossEditDuration" : 0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 0,
+                          "duration" : 50991360000,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 50991360000,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "audiateLinkedSession" : "",
+                            "clipSpeedAttribute" : { "type": "bool", "value" : false},
+                            "colorAttribute" : { "type": "color", "value" : [ 0, 0, 0, 0]},
+                            "default-height" : { "type": "double", "value" : 1036.8},
+                            "default-translation0" : { "type": "double", "value" : 0.0},
+                            "default-translation1" : { "type": "double", "value" : -194.4},
+                            "default-translation2" : { "type": "double", "value" : 0.0},
+                            "default-width" : { "type": "double", "value" : 1932.67572815534}
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 6,
+                          "_type" : "ScreenVMFile",
+                          "src" : 2,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Rec 4-22-2025-8-51-30-PM"
+                          },
+                          "parameters" : {
+                            "geometryCrop0" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop1" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop2" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop3" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "cursorScale" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorOpacity" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorTrackLevel" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "smoothCursorAcrossEditDuration" : 0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 50991360000,
+                          "duration" : 46663680000,
+                          "mediaStart" : 66467520000,
+                          "mediaDuration" : 46663680000,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "audiateLinkedSession" : "",
+                            "clipSpeedAttribute" : { "type": "bool", "value" : false},
+                            "colorAttribute" : { "type": "color", "value" : [ 0, 0, 0, 0]},
+                            "default-height" : { "type": "double", "value" : 1036.8},
+                            "default-translation0" : { "type": "double", "value" : 0.0},
+                            "default-translation1" : { "type": "double", "value" : -194.4},
+                            "default-translation2" : { "type": "double", "value" : 0.0},
+                            "default-width" : { "type": "double", "value" : 1932.67572815534}
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 7,
+                          "_type" : "ScreenVMFile",
+                          "src" : 2,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Rec 4-22-2025-8-51-30-PM"
+                          },
+                          "parameters" : {
+                            "geometryCrop0" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop1" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop2" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop3" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "cursorScale" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorOpacity" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorTrackLevel" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "smoothCursorAcrossEditDuration" : 0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 97655040000,
+                          "duration" : 352282560000,
+                          "mediaStart" : 149352000000,
+                          "mediaDuration" : 352282560000,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "audiateLinkedSession" : "",
+                            "clipSpeedAttribute" : { "type": "bool", "value" : false},
+                            "colorAttribute" : { "type": "color", "value" : [ 0, 0, 0, 0]},
+                            "default-height" : { "type": "double", "value" : 1036.8},
+                            "default-translation0" : { "type": "double", "value" : 0.0},
+                            "default-translation1" : { "type": "double", "value" : -194.4},
+                            "default-translation2" : { "type": "double", "value" : 0.0},
+                            "default-width" : { "type": "double", "value" : 1932.67572815534}
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 8,
+                          "_type" : "ScreenVMFile",
+                          "src" : 2,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Rec 4-22-2025-8-51-30-PM"
+                          },
+                          "parameters" : {
+                            "geometryCrop0" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop1" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop2" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop3" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "cursorScale" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorOpacity" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorTrackLevel" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "smoothCursorAcrossEditDuration" : 0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 449937600000,
+                          "duration" : 8961120000,
+                          "mediaStart" : 509843040000,
+                          "mediaDuration" : 8961120000,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "audiateLinkedSession" : "",
+                            "clipSpeedAttribute" : { "type": "bool", "value" : false},
+                            "colorAttribute" : { "type": "color", "value" : [ 0, 0, 0, 0]},
+                            "default-height" : { "type": "double", "value" : 1036.8},
+                            "default-translation0" : { "type": "double", "value" : 0.0},
+                            "default-translation1" : { "type": "double", "value" : -194.4},
+                            "default-translation2" : { "type": "double", "value" : 0.0},
+                            "default-width" : { "type": "double", "value" : 1932.67572815534}
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 9,
+                          "_type" : "ScreenVMFile",
+                          "src" : 2,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Rec 4-22-2025-8-51-30-PM"
+                          },
+                          "parameters" : {
+                            "geometryCrop0" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop1" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop2" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop3" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "cursorScale" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorOpacity" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorTrackLevel" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "smoothCursorAcrossEditDuration" : 0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 458898720000,
+                          "duration" : 581226240000,
+                          "mediaStart" : 1416350880000,
+                          "mediaDuration" : 581226240000,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "audiateLinkedSession" : "",
+                            "clipSpeedAttribute" : { "type": "bool", "value" : false},
+                            "colorAttribute" : { "type": "color", "value" : [ 0, 0, 0, 0]},
+                            "default-height" : { "type": "double", "value" : 1036.8},
+                            "default-translation0" : { "type": "double", "value" : 0.0},
+                            "default-translation1" : { "type": "double", "value" : -194.4},
+                            "default-translation2" : { "type": "double", "value" : 0.0},
+                            "default-width" : { "type": "double", "value" : 1932.67572815534}
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 10,
+                          "_type" : "ScreenVMFile",
+                          "src" : 2,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Rec 4-22-2025-8-51-30-PM"
+                          },
+                          "parameters" : {
+                            "geometryCrop0" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop1" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop2" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop3" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "cursorScale" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorOpacity" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorTrackLevel" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "smoothCursorAcrossEditDuration" : 0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 1040124960000,
+                          "duration" : 215419680000,
+                          "mediaStart" : 2018886240000,
+                          "mediaDuration" : 215419680000,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "audiateLinkedSession" : "",
+                            "clipSpeedAttribute" : { "type": "bool", "value" : false},
+                            "colorAttribute" : { "type": "color", "value" : [ 0, 0, 0, 0]},
+                            "default-height" : { "type": "double", "value" : 1036.8},
+                            "default-translation0" : { "type": "double", "value" : 0.0},
+                            "default-translation1" : { "type": "double", "value" : -194.4},
+                            "default-translation2" : { "type": "double", "value" : 0.0},
+                            "default-width" : { "type": "double", "value" : 1932.67572815534}
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 11,
+                          "_type" : "ScreenVMFile",
+                          "src" : 2,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Rec 4-22-2025-8-51-30-PM"
+                          },
+                          "parameters" : {
+                            "geometryCrop0" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop1" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop2" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop3" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "cursorScale" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorOpacity" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorTrackLevel" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "smoothCursorAcrossEditDuration" : 0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 1255544640000,
+                          "duration" : 786955680000,
+                          "mediaStart" : 2257778880000,
+                          "mediaDuration" : 786955680000,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "audiateLinkedSession" : "",
+                            "clipSpeedAttribute" : { "type": "bool", "value" : false},
+                            "colorAttribute" : { "type": "color", "value" : [ 0, 0, 0, 0]},
+                            "default-height" : { "type": "double", "value" : 1036.8},
+                            "default-translation0" : { "type": "double", "value" : 0.0},
+                            "default-translation1" : { "type": "double", "value" : -194.4},
+                            "default-translation2" : { "type": "double", "value" : 0.0},
+                            "default-width" : { "type": "double", "value" : 1932.67572815534}
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 12,
+                          "_type" : "ScreenVMFile",
+                          "src" : 2,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Rec 4-22-2025-8-51-30-PM"
+                          },
+                          "parameters" : {
+                            "geometryCrop0" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop1" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop2" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop3" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "cursorScale" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorOpacity" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorTrackLevel" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "smoothCursorAcrossEditDuration" : 0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 2042500320000,
+                          "duration" : 20768160000,
+                          "mediaStart" : 3047580480000,
+                          "mediaDuration" : 20768160000,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "audiateLinkedSession" : "",
+                            "clipSpeedAttribute" : { "type": "bool", "value" : false},
+                            "colorAttribute" : { "type": "color", "value" : [ 0, 0, 0, 0]},
+                            "default-height" : { "type": "double", "value" : 1036.8},
+                            "default-translation0" : { "type": "double", "value" : 0.0},
+                            "default-translation1" : { "type": "double", "value" : -194.4},
+                            "default-translation2" : { "type": "double", "value" : 0.0},
+                            "default-width" : { "type": "double", "value" : 1932.67572815534}
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 13,
+                          "_type" : "ScreenVMFile",
+                          "src" : 2,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "Rec 4-22-2025-8-51-30-PM"
+                          },
+                          "parameters" : {
+                            "geometryCrop0" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop1" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop2" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop3" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "cursorScale" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorOpacity" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "cursorTrackLevel" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr"
+                            },
+                            "smoothCursorAcrossEditDuration" : 0
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 2063268480000,
+                          "duration" : 343039200000,
+                          "mediaStart" : 3138932160000,
+                          "mediaDuration" : 343039200000,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "AutoAppliedSmartFocus" : "False",
+                            "audiateLinkedSession" : "",
+                            "clipSpeedAttribute" : { "type": "bool", "value" : false},
+                            "colorAttribute" : { "type": "color", "value" : [ 0, 0, 0, 0]},
+                            "default-height" : { "type": "double", "value" : 1036.8},
+                            "default-translation0" : { "type": "double", "value" : 0.0},
+                            "default-translation1" : { "type": "double", "value" : -194.4},
+                            "default-translation2" : { "type": "double", "value" : 0.0},
+                            "default-width" : { "type": "double", "value" : 1932.67572815534}
+                          },
+                          "animationTracks" : {
+
+                          }
+                        }
+                    ],
+                    "effects" : [
+                        {
+                          "effectName" : "CursorColor",
+                          "bypassed" : false,
+                          "category" : "categoryCursorEffects",
+                          "parameters" : {
+                            "intensity" : {
+                              "type" : "double",
+                              "defaultValue" : 1.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "desaturation" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "colorLumaCutoff" : {
+                              "type" : "double",
+                              "defaultValue" : 1.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "color-alpha" : {
+                              "type" : "double",
+                              "defaultValue" : 1.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "color-red" : {
+                              "type" : "double",
+                              "defaultValue" : 1.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "color-green" : {
+                              "type" : "double",
+                              "defaultValue" : 0.8980392157,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "color-blue" : {
+                              "type" : "double",
+                              "defaultValue" : 0.1215686275,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "secondColor-red" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "secondColor-green" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "secondColor-blue" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "secondColor-alpha" : {
+                              "type" : "double",
+                              "defaultValue" : 1.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "secondColorLumaCutoff" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "channel" : 0,
+                            "shadowRampStart" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "shadowRampEnd" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "highlightRampStart" : {
+                              "type" : "double",
+                              "defaultValue" : 1.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "highlightRampEnd" : {
+                              "type" : "double",
+                              "defaultValue" : 1.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "effectName" : "CursorShadow",
+                          "bypassed" : false,
+                          "category" : "categoryCursorEffects",
+                          "parameters" : {
+                            "angle" : {
+                              "type" : "double",
+                              "defaultValue" : 3.92699081698724,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "enabled" : 1,
+                            "offset" : {
+                              "type" : "double",
+                              "defaultValue" : 5.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "blur" : {
+                              "type" : "double",
+                              "defaultValue" : 2.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "opacity" : {
+                              "type" : "double",
+                              "defaultValue" : 0.25,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "color-red" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "color-green" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "color-blue" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "color-alpha" : {
+                              "type" : "double",
+                              "defaultValue" : 1.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            }
+                          }
+                        },
+                        {
+                          "effectName" : "CursorHilight",
+                          "bypassed" : false,
+                          "category" : "categoryCursorEffects",
+                          "parameters" : {
+                            "radius" : {
+                              "type" : "double",
+                              "defaultValue" : 50.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "color-red" : {
+                              "type" : "double",
+                              "defaultValue" : 1.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "color-green" : {
+                              "type" : "double",
+                              "defaultValue" : 1.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "color-blue" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "color-alpha" : {
+                              "type" : "double",
+                              "defaultValue" : 0.75,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            },
+                            "blur" : {
+                              "type" : "double",
+                              "defaultValue" : 0.1,
+                              "interp" : "linr",
+                              "uiHints" : {
+                                "userInterfaceType" : 0,
+                                "unitType" : 0
+                              }
+                            }
+                          }
+                        }
+                    ],
+                    "start" : 0,
+                    "duration" : 2406307680000,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 2406307680000,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "AutoAppliedSmartFocus" : "False",
+                      "audiateLinkedSession" : "",
+                      "clipSpeedAttribute" : { "type": "bool", "value" : false},
+                      "colorAttribute" : { "type": "color", "value" : [ 0, 0, 0, 0]},
+                      "default-height" : { "type": "double", "value" : 1036.8},
+                      "default-translation0" : { "type": "double", "value" : 0.0},
+                      "default-translation1" : { "type": "double", "value" : -194.4},
+                      "default-translation2" : { "type": "double", "value" : 0.0},
+                      "default-width" : { "type": "double", "value" : 1932.67572815534}
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              }            ]
+          }
+        }
+      ]
+    },
+    "trackAttributes" : [
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      }
+    ],
+    "captionAttributes" : {
+      "enabled" : true,
+      "fontName" : "Arial",
+      "fontSize" : 64,
+      "backgroundColor" : [ 0, 0, 0, 191],
+      "foregroundColor" : [ 255, 255, 255, 255],
+      "lang" : "en",
+      "alignment" : 0,
+      "defaultFontSize" : true,
+      "opacity" : 0.5,
+      "backgroundEnabled" : true,
+      "backgroundOnlyAroundText" : true
+    },
+    "gain" : 1.0,
+    "legacyAttenuateAudioMix" : false,
+    "backgroundColor" : [ 0, 0, 0, 255]
+  },
+  "metadata" : {
+    "AutoSaveFile" : "C:\\Users\\svelderr\\AppData\\Local\\TechSmith\\Camtasia Studio\\25.0\\Auto-Saves\\Untitled Projecta78bb9.autosave.tscproj",
+    "CanvasZoom" : { "type": "int", "value" : 92},
+    "Date" : "2025-04-22 08:51:48 PM",
+    "IsAutoSave" : { "type": "bool", "value" : false},
+    "IsStandalone" : { "type": "bool", "value" : true},
+    "Language" : "ENU",
+    "ProfileName" : "",
+    "ProjectThumbnail" : "iVBORw0KGgoAAAANSUhEUgAAAoAAAAFoCAYAAADHMkpRAAAAAXNSR0IArs4c6QAAAARnQU1BAACx\r\njwv8YQUAAAAJcEhZcwAAHYcAAB2HAY/l8WUAAAZxSURBVHhe7chBDcAwAMSw8ifdFUAQ3BzJn5zX\r\nBQDgV3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAA\r\nu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3IC\r\nALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALAr\r\nJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAA\r\nu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3IC\r\nALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALAr\r\nJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAA\r\nu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3IC\r\nALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALAr\r\nJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAA\r\nu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3IC\r\nALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALAr\r\nJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAA\r\nu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3IC\r\nALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALAr\r\nJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAA\r\nu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3IC\r\nALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALAr\r\nJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAA\r\nu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3IC\r\nALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALAr\r\nJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAA\r\nu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3IC\r\nALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALAr\r\nJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAA\r\nu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3IC\r\nALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALAr\r\nJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAAu3ICALArJwAA\r\nu3ICALArJwAAu3ICALArJwAAu3ICADDp3A/mI7CBEzt/RwAAAABJRU5ErkJggg==",
+    "RulerGuidesX" : [],
+    "RulerGuidesY" : [],
+    "RulerShowing" : { "type": "bool", "value" : false},
+    "Title" : "How a contribution is made from start to merge",
+    "audioNarrationNotes" : "",
+    "calloutStyle" : "Basic"
+  }
+}
